@@ -1,0 +1,18 @@
+@ CachyOs
+
+❯ sudo pacman -S sbctl                                                              # Secure Boot
+❯ sudo pacman -S steam                                                              # Steam
+❯ sudo pacman -S lib32-mangohud mangohud                                            # MangoHud
+❯ sudo pacman -S gamemode                                                           # Gamemode
+❯ sudo pacman -S faugus-launcher                                                    # Faugus Launcher
+❯ sudo pacman -S rocm-hip-runtime rocm-llvm hipblas rocblas rocm-smi-lib            # Rocm
+❯ sudo pacman -S libreoffice-still libreoffice-still-it                             # LibreOffice
+❯ sudo pacman -S neovim                                                             # Neovim
+
+
+
+
+
+
+
+
